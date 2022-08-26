@@ -3,6 +3,7 @@
 下载Fire数据放入data目录下
 # 2、模型训练
 cd pytorch_frcnn
+
 python train.py
 
 模型下载地址：
