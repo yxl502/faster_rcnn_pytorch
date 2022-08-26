@@ -1,0 +1,17 @@
+# author is leilei(CSU)
+
+# fire-detetion-dataset (voc xml annotation)
+
+# 此数据为火灾检测数据集，已经对数据进行坐标标注，并按照VOC格式存储；
+
+# image num: 2059, xml num: 2059
+
+声名：
+    此数据集包含2部分：
+    1.自己爬取的图像，自己标注
+    2.他人开源的数据，有的有标注，有的无标注(我给它重新标注)
+
+Reputation:
+     This data set contains 2 parts:
+     1. Images crawled by myself, marked by myself
+     2. The data that others open source, some have annotations, some have no annotations (I re-annotate it)
